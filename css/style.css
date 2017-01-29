@@ -26,7 +26,7 @@ header ul li a img { border-radius: 40px; float: left; padding: 0;}
 header p { font-size:1.5em; font-weight: bold; padding-left: 4em;}
 header p span { font-size: 0.8em; font-weight: normal;}
 header ul li{ display: inline-block;}
-header ul li p{font-size: 1.5em;font-weight: bold;padding-left: 0.5em;padding-right: 2em;}
+header ul li p{font-size: 1.5em;font-weight: bold;padding-left: 0.5em;padding-right: 1em;}
 
 .hero { padding: 2em; background-color: #f8f8f8; font-size:1.2em;
   border-bottom: 1px solid #ccc;
