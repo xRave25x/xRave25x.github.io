@@ -48,8 +48,9 @@ footer span { float: right; font-style: italic; }
 @media only screen and (max-width: 480px) {
   body { font-size: 12px;}
   header p { padding-left: 4.5em;}
-}
   header ul li{ display:block;}
+}
+  
 @media print {
   * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; }
   a, a:visited { color: #444 !important; text-decoration: underline; }
